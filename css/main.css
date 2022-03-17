@@ -20,6 +20,7 @@ body {
 .centred h1 {
     font-size: 2em;
     color: aliceblue;
+    text-align: center;
 }
 
 @media screen and (min-width: 786px) {
